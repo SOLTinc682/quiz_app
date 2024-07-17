@@ -11,7 +11,7 @@ class Textfieldd extends StatelessWidget {
     required this.obscureText,
     required this.controller,
   });
-jj
+
   @override
   Widget build(BuildContext context) {
     return Padding(
